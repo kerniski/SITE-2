@@ -1,10 +1,10 @@
 :root{
     --cor-de-fundo: #000000; 
     --roxo: #76217c; 
-    --branco: #000000; 
+    --branco: #ffffff; 
     --botao-ativo: #8f5bb4; 
     --botao-inativo: #555257; 
-    --texto-fundo: #ffffff; 
+    --texto-fundo: #400046; 
     --fonte: 'Saira';
 }
 @import url('https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
