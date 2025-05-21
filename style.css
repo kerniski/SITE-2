@@ -1,10 +1,10 @@
 :root{
     --cor-de-fundo: #000000; 
-    --roxo: #77217d; 
+    --roxo: #2a217d; 
     --branco: #ffffff; 
     --botao-ativo: #8f5bb4; 
     --botao-inativo: #555257; 
-    --texto-fundo: #0a0773; 
+    --texto-fundo: #686868; 
     --fonte: 'Saira';
 }
 @import url('https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
@@ -100,7 +100,7 @@ body{
     margin: 0;
 }
 .contador-digito-texto{
-    color: var(#77217d);
+    color: var(#2a217d);
     font-size: 20px;
     margin: 0;
 }
