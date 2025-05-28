@@ -1,9 +1,9 @@
 :root{
-    --cor-de-fundo: #8a8a8a; 
+    --cor-de-fundo: #3c3333; 
     --roxo: #2432a9; 
-    --branco: #ffffff; 
-    --botao-ativo: #ffffff; 
-    --botao-inativo: #fea0e2; 
+    --branco: #c4b2b2; 
+    --botao-ativo: #00e0f4; 
+    --botao-inativo: #10a5b9; 
     --texto-fundo: #e4fff0; 
     --fonte: 'Saira';
 }
