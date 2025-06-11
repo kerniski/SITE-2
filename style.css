@@ -71,7 +71,7 @@ body{
 .aba-conteudo{
     display: none;
 }
-.aba-conteudo.ativo{
+.aba-conteudo-ativo{
     display: block;
 }
 .aba-conteudo-titulo-principal{
